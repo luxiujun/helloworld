@@ -4,7 +4,6 @@ public class User {
   private String username;
   private int age;
   private int abc;
-  private int flag;//注释
-
+  private int flag;//注释//
 
 }
